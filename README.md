@@ -8,7 +8,7 @@ This dataset provides cleaned and structured data from the Google Play Market, f
 
 **🧾 Dataset Contents**
 
-apps_info.csv
+**apps_info.csv**
 
 **Metadata for mobile applications, including:**
 
@@ -30,7 +30,7 @@ section: App section/category
 
 categories: Comma-separated genre tags
 
-apps_reviews.csv
+**apps_reviews.csv**
 
 **User review data for apps:**
 
@@ -44,7 +44,7 @@ review_date: Standardized timestamp
 
 helpful_count: Upvote count for review
 
-games_info.csv
+**games_info.csv**
 
 **Metadata for mobile games, including:**
 
@@ -66,7 +66,7 @@ section: Game section/category
 
 categories: Comma-separated genre tags
 
-games_reviews.csv
+**games_reviews.csv**
 
 **User review data for games:**
 
